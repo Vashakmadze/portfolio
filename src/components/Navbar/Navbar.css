@@ -54,8 +54,8 @@ p span {
     color: #747fe0;
 }
 
-h1 {
-    font-size: 3em;
+.name-div h1 {
+    font-size: 3rem;
     color: #747fe0;
     font-weight: 400;
     padding-right: 0.5rem;
@@ -78,3 +78,36 @@ h1 {
     from, to { border-color: transparent }
     50% { border-color: #747fe0; }
   }
+
+
+@media only screen and (max-width: 770px) {
+    .name-div h1 {
+        font-size: 2.5rem;
+    }
+
+    .Navbar {
+        text-align: left;
+    }
+    
+    p {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .name-div h1 {
+        font-size: 2rem;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+    .name-div h1 {
+        font-size: 1.2rem;
+    }
+
+    ul {
+        text-align: center;
+        padding: 0;
+    }
+}

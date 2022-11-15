@@ -5,13 +5,13 @@ import resume from "../../assets/Luka Vashakmadze.pdf"
 
 const Terminal = () => (
   <div className="Terminal">
-    <div class="terminal-window">
+    <div className="terminal-window">
       <header>
-        <div class="button green"></div>
-        <div class="button yellow"></div>
-        <div class="button red"></div>
+        <div className="button green"></div>
+        <div className="button yellow"></div>
+        <div className="button red"></div>
       </header>
-      <section class="terminal">
+      <section className="terminal">
         <div className='location'>
           <h2>&gt; Luka.currentLocation</h2>
           <h3>"Brugge, Belgium"</h3>

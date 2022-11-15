@@ -7,7 +7,7 @@ const Navbar = () => (
   <header className="Navbar">
     <nav>
       <ul>
-        <li><Link to='Projects' spy={true} smooth={true} offset={0} duration={100}>Projects</Link></li>
+        <li><Link to='Projects'>Projects</Link></li>
         <li><Link to='Contact'>Contact</Link></li>
       </ul>
     </nav>
