@@ -10,6 +10,7 @@ const Contact = () => (
       <li><a href='https://github.com/Vashakmadze' target="blank">github</a></li>
       <li><a href='https://www.instagram.com/lukavasha/' target="blank">instagram</a></li>
     </ul>
+    <p>Made by Luka Vashakmadze. Inspired by Justin Chi</p>
   </div>
 );
 
