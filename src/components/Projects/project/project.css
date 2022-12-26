@@ -20,6 +20,13 @@
     border-top-left-radius: 5px;
 }
 
+.left-project > .react-freezeframe > img {
+    max-width: 100%;
+    height: auto;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
 .title {
     font-weight: 500;
     font-size: 1.5  rem;
