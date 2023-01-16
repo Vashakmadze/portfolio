@@ -62,5 +62,13 @@
         "demo": "https://vashakmadze.github.io/FaceID/",
         "about": "Face and Emotion Recognition Using Face API",
         "gif": "https://github.com/Vashakmadze/Face-Recognition-JavaScript/blob/master/faceid%20gif.gif?raw=true"
+    },
+    {
+        "name" : "React Blog",
+        "tags": ["HTML", "CSS", "JavaScript", "ReactJS", "Firebase", "QuillJS", "HTMLParser"],
+        "github": "https://github.com/Vashakmadze/react-blog",
+        "demo": "https://vashakmadze.github.io/react-blog/",
+        "about": "Responsive React blog website created with Firebase Cloud Firestore, QuillJS as Rich Text Editor with custom handlers and HTMLParser.",
+        "gif": "https://github.com/Vashakmadze/react-blog/blob/main/react-gif.gif?raw=true"
     }
 ]
