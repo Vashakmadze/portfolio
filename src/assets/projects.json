@@ -5,7 +5,7 @@
         "github": "https://github.com/Vashakmadze/ai-image-generation",
         "demo": "https://github.com/Vashakmadze/ai-image-generation-server",
         "about": "Full-Stack AI Image Generation and community showcase website using React, MongoDB, Express, Tailwind, Cloudinary, OpenAI, File-Saver.",
-        "gif": "https://github.com/Vashakmadze/ai-image-generation-server/blob/main/generator.gif"
+        "gif": "https://raw.githubusercontent.com/Vashakmadze/ai-image-generation-server/main/generator.gif"
     },
     {
         "name": "the.weather | Weather Forecast",
