@@ -31,7 +31,7 @@ const Terminal = () => (
         </div>
         <div className='skills'>
           <h2>&gt; Luka.skills</h2>
-          <h3><span>[</span>"javascript", "React", "Java", "Git", "Firebase", "Bootstrap"<span>]</span></h3>
+          <h3><span>[</span>"javascript", "React", "Java", "Git", "Firebase", "Tailwind"<span>]</span></h3>
         </div>
         <div className='type'>
           <h1>&gt;</h1>
