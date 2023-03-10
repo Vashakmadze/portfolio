@@ -21,7 +21,7 @@
         "github": "https://github.com/Vashakmadze/react-blog",
         "demo": "https://vashakmadze.github.io/react-blog/",
         "about": "Responsive React blog website created with Firebase Cloud Firestore, QuillJS as Rich Text Editor with custom handlers and HTMLParser.",
-        "gif": "https://github.com/Vashakmadze/react-blog/blob/main/react-gif.gif?raw=true"
+        "gif": "https://github.com/Vashakmadze/react-blog/blob/main/react-blog-gif.gif?raw=true"
     },
     {
         "name" : "Spend Bidzinas Money",
