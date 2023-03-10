@@ -8,6 +8,14 @@
         "gif": "https://raw.githubusercontent.com/Vashakmadze/ai-image-generation-server/main/generator.gif"
     },
     {
+        "name": "Jobs API",
+        "tags": ["ReactJS", "Tailwind", "REST-API", "Axios", "Express"],
+        "github": "https://github.com/Vashakmadze/jobs-api",
+        "demo": "https://vashakmadze.github.io/jobs-api/",
+        "about": "REST API that provides information about current job openings on the Georgian job market jobs.ge. The API returns data in JSON format and includes details such as the job title, date posted, date until, job description, and an optional company logo.",
+        "gif": "https://raw.githubusercontent.com/Vashakmadze/jobs-api/main/jobs-gif.gif"
+    },
+    {
         "name": "the.weather | Weather Forecast",
         "tags": ["HTML", "CSS", "JavaScript", "ReactJS", "Axios", "Meteo API", "Geocoding API"],
         "github": "https://github.com/Vashakmadze/the.weather",
