@@ -47,22 +47,6 @@
 		"gif": "https://raw.githubusercontent.com/Vashakmadze/the.weather/main/the.weather%20gif.gif"
 	},
 	{
-		"name": "React Blog",
-		"tags": [
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"ReactJS",
-			"Firebase",
-			"QuillJS",
-			"HTMLParser"
-		],
-		"github": "https://github.com/Vashakmadze/react-blog",
-		"demo": "https://vashakmadze.github.io/react-blog/",
-		"about": "Responsive React blog website created with Firebase Cloud Firestore, QuillJS as Rich Text Editor with custom handlers and HTMLParser.",
-		"gif": "https://github.com/Vashakmadze/react-blog/blob/main/react-blog-gif.gif?raw=true"
-	},
-	{
 		"name": "Spend Bidzinas Money",
 		"tags": ["HTML", "CSS", "JavaScript", "ReactJS"],
 		"github": "https://github.com/Vashakmadze/spendbidzinasmoney",
