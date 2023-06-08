@@ -1,7 +1,15 @@
 [
 	{
 		"name": "Gadawere.ge - First Georgian Paraphrasing Tool",
-		"tags": ["ReactJS", "Tailwind", "OpenAI", "REST-API", "Express"],
+		"tags": [
+			"ReactJS",
+			"Tailwind",
+			"OpenAI",
+			"REST-API",
+			"Express",
+			"AWS",
+			"Stripe"
+		],
 		"github": "https://github.com/Vashakmadze/GeoParaphrase",
 		"demo": "https://gadawere.ge/",
 		"about": "Gadawere.ge is a website with over 5000 users allowing the user to paraphrase given Georgian text in the matter of seconds. The project is open-source and completely free for every user. It is the one of the first and the first paraphraser tool that processes Georgian Language.",
