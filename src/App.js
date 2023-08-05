@@ -5,21 +5,28 @@ import Terminal from "./components/Terminal/Terminal";
 import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
 import { useEffect } from 'react';
+import Zoom from "react-reveal/Zoom";
+import Wobble from 'react-reveal/Wobble';
+
 
 function App() {
 
   useEffect(() => {
     document.title = "Luka's Portfolio"
- }, []);
+  }, []);
 
   return (
     <div className="App">
-      <Navbar />
-      <Terminal />  
+      <Zoom>
+        <Navbar />
+        <Terminal />
+      </Zoom>
       <Projects />
-      <Contact />
-    </div>
+      <Wobble>
+        <Contact />
+      </Wobble>
+    </div >
   );
-} 
+}
 
 export default App;
