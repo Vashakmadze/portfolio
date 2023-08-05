@@ -6,12 +6,10 @@ import { FaGithub } from "react-icons/fa";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import ReactFreezeframe from 'react-freezeframe';
 
-
-
 const Project = (props) => (
   <div className="project">
     <div className='left-project'>
-      <ReactFreezeframe   options={{ overlay: true }} src={props.project.gif} alt="Preview Couldn't load"/>
+      <ReactFreezeframe options={{ overlay: true }} src={props.project.gif} alt="Preview Couldn't load" />
     </div>
     <div className='right-project'>
       <h3 className='title'>{props.project.name}</h3>
@@ -24,8 +22,8 @@ const Project = (props) => (
         })}
       </div>
       <div className='buttons'>
-        <button className='demo' onClick={()=> window.open(props.project.demo, "_blank")}>Live Demo<FaExternalLinkAlt className='icon'/></button>
-        <button className='source' onClick={()=> window.open(props.project.github, "_blank")}><FaGithub className='icon'/>View Source</button>
+        <button className='demo' onClick={() => window.open(props.project.demo, "_blank")}>Live Demo<FaExternalLinkAlt className='icon' /></button>
+        <button className='source' onClick={() => window.open(props.project.github, "_blank")}><FaGithub className='icon' />View Source</button>
       </div>
     </div>
   </div>
